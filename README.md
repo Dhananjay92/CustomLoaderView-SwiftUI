@@ -12,7 +12,7 @@ Custom LoaderView is a simple component, which lets you use to customise your Lo
 <div style="float:left">
 <img src="Screenshots/Screen1.png" width="414">
 <img src="Screenshots/Screen2.png" width="414">
-<img src="Screenshots/video.mov" width="414">
+<img src="Screenshots/Screen3.gif" width="414">
 </div>
 
 <br/><br/>
